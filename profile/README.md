@@ -9,4 +9,4 @@ We're a flock og voulenteers who organize the DevOpsDays events in Denmark. That
 If you want to get in touch with us – the organizers — then you can simply head over to [the public discussions](https://github.com/orgs/devopsdays-dk/discussions) in this devopsdays-dk organization and start a new discussion.
 
 You are welcome to ask us anything, suggest speakers or topics that you would like the program commitee to consider. Share experiences from other DevOpsDays events you've attended – anything.
-<img width="805" height="805" alt="devopsdays-dk logo copy" src="https://github.com/user-attachments/assets/fa6ea49b-39d1-4da8-a146-b44111c1fd4b" />
+<!--img width="805" height="805" alt="devopsdays-dk logo copy" src="https://github.com/user-attachments/assets/fa6ea49b-39d1-4da8-a146-b44111c1fd4b" /-->
